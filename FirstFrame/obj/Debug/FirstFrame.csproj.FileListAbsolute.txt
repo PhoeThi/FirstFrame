@@ -1,0 +1,10 @@
+C:\Users\THSH\documents\visual studio 2013\Projects\FirstFrame\FirstFrame\bin\FirstFrame.dll.config
+C:\Users\THSH\documents\visual studio 2013\Projects\FirstFrame\FirstFrame\bin\FirstFrame.dll
+C:\Users\THSH\documents\visual studio 2013\Projects\FirstFrame\FirstFrame\bin\FirstFrame.pdb
+C:\Users\THSH\documents\visual studio 2013\Projects\FirstFrame\FirstFrame\bin\BusinessLayer.dll
+C:\Users\THSH\documents\visual studio 2013\Projects\FirstFrame\FirstFrame\bin\DataAccessLayer.dll
+C:\Users\THSH\documents\visual studio 2013\Projects\FirstFrame\FirstFrame\bin\BusinessLayer.pdb
+C:\Users\THSH\documents\visual studio 2013\Projects\FirstFrame\FirstFrame\bin\DataAccessLayer.pdb
+C:\Users\THSH\documents\visual studio 2013\Projects\FirstFrame\FirstFrame\obj\Debug\FirstFrame.csprojResolveAssemblyReference.cache
+C:\Users\THSH\documents\visual studio 2013\Projects\FirstFrame\FirstFrame\obj\Debug\FirstFrame.dll
+C:\Users\THSH\documents\visual studio 2013\Projects\FirstFrame\FirstFrame\obj\Debug\FirstFrame.pdb

@@ -1,0 +1,7 @@
+C:\Users\THSH\documents\visual studio 2013\Projects\FirstFrame\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\THSH\documents\visual studio 2013\Projects\FirstFrame\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\THSH\documents\visual studio 2013\Projects\FirstFrame\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\THSH\documents\visual studio 2013\Projects\FirstFrame\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\THSH\documents\visual studio 2013\Projects\FirstFrame\BusinessLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\THSH\documents\visual studio 2013\Projects\FirstFrame\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\THSH\documents\visual studio 2013\Projects\FirstFrame\BusinessLayer\obj\Debug\BusinessLayer.pdb

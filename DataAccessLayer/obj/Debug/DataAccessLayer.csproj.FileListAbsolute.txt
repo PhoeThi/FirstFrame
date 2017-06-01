@@ -1,0 +1,5 @@
+C:\Users\THSH\documents\visual studio 2013\Projects\FirstFrame\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\THSH\documents\visual studio 2013\Projects\FirstFrame\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\THSH\documents\visual studio 2013\Projects\FirstFrame\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\THSH\documents\visual studio 2013\Projects\FirstFrame\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\THSH\Documents\Visual Studio 2013\Projects\FirstFrame\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
